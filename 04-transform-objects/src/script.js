@@ -29,8 +29,8 @@ mesh.scale.set(2, 0.5, 0.5); // x, y, z
 scene.add(mesh);
 
 // AxesHelper to help visualize the axes per 3D model.
-const axesHelper = new THREE.AxesHelper(3);
-scene.add(axesHelper);
+// const axesHelper = new THREE.AxesHelper(3);
+// scene.add(axesHelper);
 
 /**
  * Sizes
